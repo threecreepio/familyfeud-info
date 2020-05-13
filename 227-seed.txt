@@ -1,0 +1,1 @@
+To get the 2:27 seed, using an input log you want to go through the start screen at 31 frames (1 with an input at boot, then 30 without!)
